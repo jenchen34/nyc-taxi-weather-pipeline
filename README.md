@@ -1,5 +1,10 @@
 # team19
-# NYC Taxi Demand Pipeline
+# NYC Taxi & Weather Data Pipeline
+
+## Project Note
+This project was originally completed as a team project for UCLA Anderson MSBA 405. This repository is a cleaned portfolio version used to showcase the overall pipeline structure and my contributions.
+
+My contributions focused on Luigi orchestration, pipeline organization, documentation, and support for integrating Spark ETL, Snowflake data warehousing, and Tableau analysis outputs.
 
 ## Overview
 
