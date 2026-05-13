@@ -1,0 +1,8 @@
+.env
+.vscode/
+tools/
+gcloud
+__pycache__/
+*.pyc
+Luigi/flags/*.marker
+Luigi/flags/snowflake_load_rendered.sql
